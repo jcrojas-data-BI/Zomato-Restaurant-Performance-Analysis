@@ -158,7 +158,7 @@ When presenting this Tableau Story live or in a recording:
 📊 * Junior Business Intelligence Analyst *  
 TripleTen Bootcamp | Tableau | SQL | Data Visualization  
 
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jorge-cayon-a7b323383?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FpuWAjMASEa9fp87MdMODw%3D%3D)) 
+🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jorge-cayon-a7b323383)) 
 📧 jcrojas1256@gmail.com  
 
 ---
