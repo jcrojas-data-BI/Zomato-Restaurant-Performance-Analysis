@@ -34,8 +34,7 @@ To analyze restaurant performance on Zomato and identify factors that make certa
 ### Data Preparation Steps
 - Cleaned missing or invalid ratings (“--” replaced with `NULL`).  
 - Converted local currencies to USD using the most recent exchange rate.  
-- Standardized restaurant names and cities for aggregation.  
-- Added calculated fields for `Revenue_USD` and `Avg_Cost_Converted`.  
+- Added calculated fields for `Revenue_INR`.  
 - Imported into Tableau for visualization and exploration.
 
 ---
@@ -54,7 +53,8 @@ Provides a summary of the dataset, including restaurant count, average rating, n
 Start here when presenting — use this view to set the context about scale and data diversity.
 
 **Visual Example:**  
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard]<img width="1657" height="965" alt="Overview" src="https://github.com/user-attachments/assets/2ca165cf-b68b-44f8-b166-145362ff49a1" />
+
 
 ---
 
@@ -70,13 +70,14 @@ Explores which restaurants and cuisines attract the most engagement, measured by
 Explain how affordability and familiarity drive preference. Encourage exploring filters by cuisine and city.
 
 **Visual Example:**  
-![Popularity Dashboard](images/popularity_dashboard.png)
+![Popularity Dashboard]<img width="1658" height="965" alt="Popularity Analysis" src="https://github.com/user-attachments/assets/aca684ce-bf4c-4df4-86d0-fd82db4775f4" />
+
 
 ---
 
 ### 3️⃣ Revenue Analysis
 **Purpose:**  
-Focuses on identifying which restaurants generate the most revenue (converted to USD).
+Focuses on identifying which restaurants generate the most revenue (converted to INR).
 
 **Insights:**  
 - High-end restaurants have higher per-order revenue but not necessarily higher ratings.  
@@ -86,7 +87,7 @@ Focuses on identifying which restaurants generate the most revenue (converted to
 When presenting, highlight that profitability ≠ customer satisfaction — both need to be balanced.
 
 **Visual Example:**  
-![Revenue Dashboard](images/revenue_dashboard.png)
+![Revenue Dashboard]<img width="1658" height="962" alt="Revenue Analysis" src="https://github.com/user-attachments/assets/5ad2d4da-c9eb-4bd5-bfdf-0daa96f1854a" />
 
 ---
 
@@ -102,7 +103,8 @@ Combines multiple variables to show relationships between cost, rating, and enga
 Use this as the “story conclusion” — it connects all previous dashboards and shows what actually drives success.
 
 **Visual Example:**  
-![Performance Drivers Dashboard]<img width="1657" height="965" alt="Overview" src="https://github.com/user-attachments/assets/c4ca9523-d901-483f-b8e5-218780716c7a" />
+![Performance Drivers Dashboard]<img width="1660" height="965" alt="Performance Drivers" src="https://github.com/user-attachments/assets/409c3d28-6418-4199-a838-4b709198734f" />
+
 
 
 ---
@@ -132,7 +134,7 @@ When presenting this Tableau Story live or in a recording:
 ## 🧠 Key Conclusions
 
 ### Findings
-- Urban hubs like Delhi and Mumbai dominate the restaurant market.  
+- Urban hubs dominate the restaurant market.  
 - Mid-range restaurants consistently outperform in both popularity and satisfaction.  
 - Premium pricing doesn’t guarantee high ratings — value perception is critical.  
 - Engagement metrics like votes are strong indicators of customer loyalty.
@@ -162,8 +164,8 @@ When presenting this Tableau Story live or in a recording:
 ---
 
 ## 👤 Author
-**Jorge Rojas**  
-📊 *Aspiring Business Intelligence Analyst*  
+**Jorge Cayon**  
+📊 * Junior Business Intelligence Analyst *  
 TripleTen Bootcamp | Tableau | SQL | Data Visualization  
 
 🔗 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
