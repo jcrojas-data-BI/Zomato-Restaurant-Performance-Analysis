@@ -153,22 +153,12 @@ When presenting this Tableau Story live or in a recording:
 
 ---
 
-## 📁 Repository Contents
-| File | Description |
-|------|--------------|
-| `Zomato_Restaurant_Analysis.twbx` | Tableau workbook containing all dashboards |
-| `Zomato_Story_Presentation_Full.pdf` | Final presentation report with visuals and narrative |
-| `Zomato_Research_Plan.pdf` | Full project research plan |
-| `README.md` | Documentation and usage instructions |
-
----
-
 ## 👤 Author
 **Jorge Cayon**  
 📊 * Junior Business Intelligence Analyst *  
 TripleTen Bootcamp | Tableau | SQL | Data Visualization  
 
-🔗 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
+🔗 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/jorge-cayon-a7b323383?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVIrgD7AwTTimLWEnk94Jng%3D%3D)*  
 📧 jcrojas1256@gmail.com  
 
 ---
