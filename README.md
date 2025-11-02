@@ -158,8 +158,8 @@ When presenting this Tableau Story live or in a recording:
 📊 * Junior Business Intelligence Analyst *  
 TripleTen Bootcamp | Tableau | SQL | Data Visualization  
 
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jorge-cayon-a7b323383)) 
-📧 jcrojas1256@gmail.com  
+[![Gmail Badge](https://img.shields.io/badge/-jcrojas1256@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jcrojas1256@gmail.com)](mailto:jcrojas1256@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jorge%20Cayón-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-cayon-a7b323383/)](https://www.linkedin.com/in/jorge-cayon-a7b323383/)
 
 ---
 
